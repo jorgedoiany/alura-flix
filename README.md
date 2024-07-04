@@ -240,7 +240,3 @@ Ir a repositorio [GitHub](https://github.com/Mariq12/challenge-aluraflix-v2)de l
 
 ## Personas colaboradoras
 **Alura Latam** organizó el Challenge AluraFlix y proporcionó las herramientas de gestión y diseño.
-
-
-## Autora
-[<img src="https://avatars.githubusercontent.com/u/101030215?v=4" width=155><br><sub>Flor María Labanda Puchaicela</sub>](https://github.com/Mariq12)
